@@ -5,8 +5,6 @@
 </div>
 <br />
 
-<img width="1359" alt="image" src="https://github.com/aulianza/aulianza.id/assets/15605885/e9665038-6e84-4c8e-a847-fb90138c0303">
-
 ## Introduction
 
 This website was carefully crafted from the ground using Next.js and other helpful tools.
