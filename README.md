@@ -1,9 +1,3 @@
-<div align="center">
-  <h1>Chaitanya</h1>
-  <p>🔥 Personal website was built originally from scratch using Next.js, TypeScript, Tailwind CSS, SWR, Firebase and Prisma with PostgreSQL</p>
-
-</div>
-<br />
 
 ## Introduction
 
