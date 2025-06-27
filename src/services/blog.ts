@@ -17,15 +17,6 @@ interface BlogDetailResponseProps {
 
 const BLOG_URL = process.env.BLOG_API_URL as string;
 
-const handleAxiosError = (
-  error: AxiosError<any>,
-): { status: number; data: any } => {
-  if (error?.response) {
-    return { status: error?.response?.status, data: error?.response?.data };
-  } else {
-    return { status: 500, data: { message: 'Internal Server Error' } };
-  }
-};
 
 const extractData = (
   response: AxiosResponse,
