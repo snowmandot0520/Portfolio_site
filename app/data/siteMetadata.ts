@@ -6,13 +6,13 @@ export const siteMetadata = {
     "I'm Braydon, a senior front-end engineer, blogger and international speaker. Welcome to my corner of the internet!",
   language: "en-us",
   siteUrl: "https://braydoncoyer.dev",
-  siteRepo: "https://github.com/braydoncoyer/braydoncoyer.dev",
+  siteRepo: "https://github.com/snowmandot0520/felix-andresen.dev",
   avatarImage:
     "https://res.cloudinary.com/braydoncoyer/image/upload/v1636553710/avatar.jpg",
   socialBanner:
     "https://res.cloudinary.com/braydoncoyer/image/upload/v1638884997/default-social-image.png",
   email: "andresenfelix583@gmail.com",
-  github: "https://github.com/braydoncoyer",
+  github: "https://github.com/snowmandot0520",
   twitter: "https://twitter.com/BraydonCoyer",
   twitterHandle: "@BraydonCoyer",
   codepen: "https://codepen.io/braydoncoyer",
