@@ -22,20 +22,7 @@ const footerSections: FooterSection[] = [
       { href: "/projects", label: "Projects" },
       // { href: "/blog", label: "Blog" },
     ],
-  },
-  {
-    title: "Specifics",
-    links: [
-      { href: "/toolbox", label: "Toolbox" },
-      // { href: "/speaking", label: "Speaking" },
-      {
-        href: "https://braydoncoyer.lemonsqueezy.com/",
-        label: "Products",
-        isExternal: true,
-      },
-      { href: "/community-wall", label: "Community Wall" },
-    ],
-  },
+  }, 
   {
     title: "Extra",
     links: [
